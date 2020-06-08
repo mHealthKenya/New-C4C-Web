@@ -1,0 +1,1 @@
+export let colorArray = ['#f6eff7','#d0d1e6','#a6bddb','#67a9cf','#3690c0','#02818a','#016450']
